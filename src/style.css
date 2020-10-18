@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+:root {
+	--clockFaceColor: #777;
+	--sec: #FF6B6B;
+	--min: #444;
+	--hour: #222;
+	--digit: #555;
+	--clockFaceDiam: 200px;
+}
+body {
+	font-family: 'Play', Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	background-color: #f9f9ff;
+}
